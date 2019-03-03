@@ -19,3 +19,9 @@ The basic drill of the game will be explained with an example using 3 players:
   3) Ending the game: During each turn, the active player can alternatively “Pass” to indicate that
   he has no valid move. The game will end when all 3 players pass in sequence and the player
   with the highest score wins the game.
+  
+How to run
+  
+Client program: java –jar client.jar
+
+Server prgram: java –jar server.jar -p <port where the rmi registry will be created>
