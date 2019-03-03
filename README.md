@@ -22,6 +22,10 @@ The basic drill of the game will be explained with an example using 3 players:
   
 How to run
   
-Client program: java –jar client.jar
+Client program: 
 
-Server prgram: java –jar server.jar -p <port where the rmi registry will be created>
+>java –jar client.jar
+
+Server prgram: 
+
+>java –jar server.jar -p <port where the rmi registry will be created>
